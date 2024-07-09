@@ -17,3 +17,7 @@ Hit <kbd>f1</kbd> to switch between the main menu and the instructions screen.
 Selecting a constituency and pressing <kbd>RETURN</kbd> will show you the full name of that constituency (if it was truncated in the menu) and the result, including which party won and which party lost (if applicable) in that constituency.
 
 Candidate-level results aren't due to be released until Friday 12th July but some time after that point I do plan to add the top 4 parties in each constituency to the constituency info screen.
+
+## Building from source
+
+To build the binary data file you'll need the source "winners" spreadsheet from [here](https://commonslibrary.parliament.uk/research-briefings/cbp-10009/) which is licensed under the [Open Parliament Licence v3.0](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/).
