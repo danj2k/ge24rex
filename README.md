@@ -16,7 +16,9 @@ Hit <kbd>f1</kbd> to switch between the main menu and the instructions screen.
 
 Selecting a constituency and pressing <kbd>RETURN</kbd> will show you the full name of that constituency (if it was truncated in the menu) and the result, including which party won and which party lost (if applicable) in that constituency.
 
-Candidate-level results aren't due to be released until Friday 12th July but some time after that point I do plan to add the top 4 parties in each constituency to the constituency info screen.
+Candidate-level results are now expected to be released around 15th July, and some time after that point I do plan to add the top 4 parties in each constituency to the constituency info screen.
+
+The next version will also include an indicator to show the program is searching, as some people had believed it had hung during long searches. Search speed is slower the further away your cursor is from your target.
 
 ## Building from source
 
